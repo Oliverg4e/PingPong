@@ -3,7 +3,7 @@ var movYp2;
 var movSpeed;
 var speedX;
 var speedY;
-let score1 = 0;
+let score1 = -1;
 let score2 = 0;
 var min1;
 var min2;
