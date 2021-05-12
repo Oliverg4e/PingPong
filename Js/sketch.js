@@ -66,13 +66,13 @@ function draw(){
 	   
 	}
 //ganador
-	if(score1==10 ){
+	if(score1==5 ){
 
 		alert("El ganador es Player 1")
 		reset();
 		redraw();
 	}
-	if(score2==10){
+	if(score2==5){
 		alert("El ganador es Player 2")
 		reset();
 		redraw();
