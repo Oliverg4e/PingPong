@@ -8,7 +8,7 @@ let score2 = 0;
 var min1;
 var min2;
 
-alert("Da click en aceptar para comenzar el juego");
+alert("Da click en aceptar para comenzar el juego, tiene algunos errores en las colisiones de las paletas :(");
 function setup(){
 	createCanvas(windowWidth,windowHeight);
 	movYp1=height/2;
